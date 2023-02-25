@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Javed! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+-  [Active Directory Home Lab](https://github.com/Javvy101/Algorithms-Practice)
+
+<h2> 📜 Certifications </h2>
+
+- [Google IT Support Professional](https://www.credly.com/badges/436805aa-bb3a-46ed-9ba4-87b6fcd46692/public_url)
+- [IBM Cybersecurity Analyst Professional](https://www.credly.com/badges/a3038fb6-5784-414c-82c1-55a0e6bfd7ca/public_url)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JavedSulaiman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/javed-sulaiman/
 
 <!--
 **Javvy101/Javvy101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

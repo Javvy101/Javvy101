@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
--  [Active Directory Home Lab](https://github.com/Javvy101/ActiveDirectoryLab](https://github.com/Javvy101/ActiveDirectoryLab)
+-  [Active Directory Home Lab](https://github.com/Javvy101/ActiveDirectoryLab)
 
 <h2> 📜 Certifications </h2>
 

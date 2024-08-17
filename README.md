@@ -1,6 +1,6 @@
 <h1>Hi, I'm Javed! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 -  [Performing a Disk Sanitization](https://github.com/Javvy101/ActiveDirectoryLab)
 
